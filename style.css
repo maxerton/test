@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.first {
+    background-color: #face00;
+}
+
+.second {
+    background-color: #990000;
+}
+
+section {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.test {
+    background-color: #00ff00;
+    width: 25vw;
+    height: 25vw;
+}
+
+h2 {
+    font-size: 20px;
+    background-color: #fff;
+    width: 90%;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+}
